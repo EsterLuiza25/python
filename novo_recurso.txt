@@ -1,0 +1,4 @@
+meotodonovo(){
+
+	inicial
+}
